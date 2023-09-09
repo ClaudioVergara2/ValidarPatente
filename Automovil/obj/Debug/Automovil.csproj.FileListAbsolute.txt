@@ -1,0 +1,17 @@
+C:\Users\Alumnos\Downloads\Automovil\Automovil\bin\Debug\Automovil.dll
+C:\Users\Alumnos\Downloads\Automovil\Automovil\bin\Debug\Automovil.pdb
+C:\Users\Alumnos\Downloads\Automovil\Automovil\obj\Debug\Automovil.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\Automovil\Automovil\obj\Debug\Automovil.dll
+C:\Users\Alumnos\Downloads\Automovil\Automovil\obj\Debug\Automovil.pdb
+C:\Users\jmuno\Downloads\Automovil\Automovil\bin\Debug\Automovil.dll
+C:\Users\jmuno\Downloads\Automovil\Automovil\bin\Debug\Automovil.pdb
+C:\Users\jmuno\Downloads\Automovil\Automovil\obj\Debug\Automovil.csproj.AssemblyReference.cache
+C:\Users\jmuno\Downloads\Automovil\Automovil\obj\Debug\Automovil.csproj.CoreCompileInputs.cache
+C:\Users\jmuno\Downloads\Automovil\Automovil\obj\Debug\Automovil.dll
+C:\Users\jmuno\Downloads\Automovil\Automovil\obj\Debug\Automovil.pdb
+C:\Users\User\Desktop\Automovil\Automovil\bin\Debug\Automovil.dll
+C:\Users\User\Desktop\Automovil\Automovil\bin\Debug\Automovil.pdb
+C:\Users\User\Desktop\Automovil\Automovil\obj\Debug\Automovil.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Automovil\Automovil\obj\Debug\Automovil.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Automovil\Automovil\obj\Debug\Automovil.dll
+C:\Users\User\Desktop\Automovil\Automovil\obj\Debug\Automovil.pdb

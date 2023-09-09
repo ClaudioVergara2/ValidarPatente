@@ -1,0 +1,56 @@
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.exe.config
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.exe
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.pdb
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\bin\Debug\Automovil.dll
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\bin\Debug\Automovil.pdb
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csprojAssemblyReference.cache
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\MainWindow.g.cs
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\App.g.cs
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas_MarkupCompile.cache
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas_MarkupCompile.lref
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\MainWindow.baml
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.g.resources
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes_Chilenas.Properties.Resources.resources
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.GenerateResource.cache
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.CopyComplete
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.exe
+C:\Users\Alumnos\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.pdb
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.exe.config
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.exe
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.pdb
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\bin\Debug\Automovil.dll
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\bin\Debug\Automovil.pdb
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.AssemblyReference.cache
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\MainWindow.g.cs
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\App.g.cs
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas_MarkupCompile.cache
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas_MarkupCompile.lref
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\MainWindow.baml
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.g.resources
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes_Chilenas.Properties.Resources.resources
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.GenerateResource.cache
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.CoreCompileInputs.cache
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.CopyComplete
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.exe
+C:\Users\jmuno\Downloads\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.pdb
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.exe.config
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.exe
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\bin\Debug\Patentes Chilenas.pdb
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\bin\Debug\Automovil.dll
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\bin\Debug\Automovil.pdb
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas_MarkupCompile.cache
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas_MarkupCompile.lref
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.g.resources
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes_Chilenas.Properties.Resources.resources
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.csproj.CopyComplete
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.exe
+C:\Users\User\Desktop\Automovil\Patentes Chilenas\obj\Debug\Patentes Chilenas.pdb

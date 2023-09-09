@@ -1,0 +1,15 @@
+C:\Users\Alumnos\Downloads\Automovil\ConsolaPatentes\bin\Debug\ConsolaPatentes.exe.config
+C:\Users\Alumnos\Downloads\Automovil\ConsolaPatentes\bin\Debug\ConsolaPatentes.exe
+C:\Users\Alumnos\Downloads\Automovil\ConsolaPatentes\bin\Debug\ConsolaPatentes.pdb
+C:\Users\Alumnos\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.csprojAssemblyReference.cache
+C:\Users\Alumnos\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.exe
+C:\Users\Alumnos\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.pdb
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\bin\Debug\ConsolaPatentes.exe.config
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\bin\Debug\ConsolaPatentes.exe
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\bin\Debug\ConsolaPatentes.pdb
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.csproj.AssemblyReference.cache
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.exe
+C:\Users\jmuno\Downloads\Automovil\ConsolaPatentes\obj\Debug\ConsolaPatentes.pdb
